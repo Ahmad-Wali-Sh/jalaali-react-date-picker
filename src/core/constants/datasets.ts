@@ -53,51 +53,51 @@ const gregorianMonths: Month[] = [
 const jalaaliMonths: Month[] = [
   {
     id: 1,
-    name: "فروردین",
+    name: "حمل",
   },
   {
     id: 2,
-    name: "اردیبهشت",
+    name: "ثور",
   },
   {
     id: 3,
-    name: "خرداد",
+    name: "جوزا",
   },
   {
     id: 4,
-    name: "تیر",
+    name: "سرطان",
   },
   {
     id: 5,
-    name: "مرداد",
+    name: "اسد",
   },
   {
     id: 6,
-    name: "شهریور",
+    name: "سنبله",
   },
   {
     id: 7,
-    name: "مهر",
+    name: "میزان",
   },
   {
     id: 8,
-    name: "آبان",
+    name: "عقرب",
   },
   {
     id: 9,
-    name: "آذر",
+    name: "قوس",
   },
   {
     id: 10,
-    name: "دی",
+    name: "جدی",
   },
   {
     id: 11,
-    name: "بهمن",
+    name: "دلو",
   },
   {
     id: 12,
-    name: "اسفند",
+    name: "حوت",
   },
 ];
 
