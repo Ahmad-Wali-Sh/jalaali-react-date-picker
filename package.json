@@ -17,12 +17,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alirezahematidev/jalaali-react-date-picker.git"
+    "url": "git+https://github.com/Ahmad-Wali-Sh/jalaali-react-date-picker.git"
   },
   "bugs": {
-    "url": "https://github.com/alirezahematidev/jalaali-react-date-picker/issues"
+    "url": "https://github.com/Ahmad-Wali-Sh/jalaali-react-date-picker/issues"
   },
-  "homepage": "https://github.com/alirezahematidev/jalaali-react-date-picker#readme",
+  "homepage": "https://github.com/Ahmad-Wali-Sh/jalaali-react-date-picker#readme",
   "main": "lib/main.js",
   "module": "lib/main.js",
   "types": "lib/index.d.ts",
